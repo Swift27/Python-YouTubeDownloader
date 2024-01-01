@@ -1,4 +1,4 @@
-# Indeed Job Scraper
+# YouTube video downloader
 
 ![Design preview for the Youtube Video Downloader](./preview.png)
 
